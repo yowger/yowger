@@ -1,17 +1,19 @@
 ### Hi there 👋
 
-🔭 I’m currently working on [Social Hub GitHub Repository](https://github.com/yowger/social-hub) [Live Website](https://social-hub-seven.vercel.app/home)
-<!--
-**yowger/yowger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Frontend:**
+  - [React](https://reactjs.org/)
+  - [Next.js](https://nextjs.org/)
 
-Here are some ideas to get you started:
+- **Backend:**
+  - [Node.js](https://nodejs.org/)
+  - [Express.js](https://expressjs.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Database:**
+  - [MongoDB](https://www.mongodb.com/)
+
+- **Styling:**
+  - [Tailwind CSS](https://tailwindcss.com/)
+
+
+🔭 I’m currently working on [Live Website](https://social-hub-seven.vercel.app/home) - [Code](https://github.com/yowger/social-hub)
+
