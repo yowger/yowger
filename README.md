@@ -1,19 +1,9 @@
 ### Hi there 👋
 
-- **Frontend:**
-  - [React](https://reactjs.org/)
-  - [Next.js](https://nextjs.org/)
+## Tech stack
+Frontend: React, Next.js, JavaScript, TypeScript, Redux Toolkit, React Query
+Styling: Material UI, Tailwind CSS, Shadcn/ui
+Backend: Node.js, Prisma, MongoDB (NoSQL), MySQL (SQL)
 
-- **Backend:**
-  - [Node.js](https://nodejs.org/)
-  - [Express.js](https://expressjs.com/)
-
-- **Database:**
-  - [MongoDB](https://www.mongodb.com/)
-
-- **Styling:**
-  - [Tailwind CSS](https://tailwindcss.com/)
-
-
-🔭 I’m currently working on [Live Website](https://social-hub-seven.vercel.app/home) - [Code](https://github.com/yowger/social-hub)
+🔭 I’m currently working on a social media website: [Live View](https://social-hub-seven.vercel.app/home) - [Code](https://github.com/yowger/social-hub)
 
