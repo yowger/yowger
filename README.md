@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Roger and I love to code!
+### Hi there 👋 I'm Roger and I love coding!
 
 ### My Tech stack
 #### Frontend
@@ -9,7 +9,7 @@
 `Node.js` `Prisma` `MongoDB (NoSQL)` `MySQL (SQL)` `Postgres (SQL)`
 
 ### What I'm doing
-🔭 I’m currently working on a social media website on my free time: [Live View](https://social-hub-seven.vercel.app/home) - [Code](https://github.com/yowger/social-hub)
+🔭 I’m currently working on a social media website in my free time: [Live View](https://social-hub-seven.vercel.app/home) - [Code](https://github.com/yowger/social-hub)
 
 ### Contact me
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/roger.pantil.1/)
