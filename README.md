@@ -2,9 +2,9 @@
 
 ### My Tech stack
 #### Frontend
-`React` `Next.js` `JavaScript` `TypeScript` `Redux Toolkit` `React Query`
+`JavaScript` `TypeScript` `React` `Next.js` `Redux Toolkit/Query` `React Query`
 #### Styling
-`Material UI` `Tailwind CSS` `Shadcn/ui`
+`Material UI` `Tailwind CSS` `radix-ui` `Shadcn/ui`
 #### Backend
 `Node.js` `Prisma` `MongoDB (NoSQL)` `MySQL (SQL)` `Postgres (SQL)`
 
