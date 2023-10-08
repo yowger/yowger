@@ -1,4 +1,4 @@
-### Coding is life 
+# Coding is life 
 
 ### My Tech stack
 #### Frontend
