@@ -2,7 +2,7 @@
 
 ### My Tech stack
 #### Frontend
-`JavaScript` `TypeScript` `React` `Next.js` `Redux Toolkit/Query` `React Query`
+`JavaScript` `TypeScript` `React` `Next.js` `Redux Toolkit/Query/Saga` `React Query`
 #### Styling
 `Material UI` `Tailwind CSS` `radix-ui` `Shadcn/ui`
 #### Backend
