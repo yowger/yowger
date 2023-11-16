@@ -1,4 +1,4 @@
-# Coding is life 
+## sleep - code - eat... sleep - code - eat, repeat. 
 
 ### My Tech stack
 #### Frontend
@@ -6,7 +6,7 @@
 #### Styling
 `Material UI` `Tailwind CSS` `radix-ui` `Shadcn/ui`
 #### Backend
-`Node.js` `Prisma` `MongoDB (NoSQL)` `MySQL (SQL)` `Postgres (SQL)`
+`Node.js` `Prisma` `MongoDB (NoSQL)` `MySQL (SQL)` `Postgres (SQL)` `Firebase`
 
 ### What I'm doing
 💻 Currently making a social media and an e-commerce website on my free time 
