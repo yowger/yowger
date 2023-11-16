@@ -5,6 +5,8 @@
 `JavaScript` `TypeScript` `React` `Next.js` `Redux Toolkit/Query/Saga` `React Query`
 #### Styling
 `Material UI` `Tailwind CSS` `radix-ui` `Shadcn/ui`
+### Others
+`Stripe`
 #### Backend
 `Node.js` `Prisma` `MongoDB (NoSQL)` `MySQL (SQL)` `Postgres (SQL)` `Firebase`
 
