@@ -2,17 +2,16 @@
 
 ### My Tech stack
 #### Frontend
-`JavaScript` `TypeScript` `React` `Next.js` `Redux Toolkit/Query/Saga` `React Query`
+`JavaScript` `TypeScript` `React` `Next.js`
 #### Styling
 `Material UI` `Tailwind CSS` `radix-ui` `Shadcn/ui`
 #### Backend
 `Node.js` `Prisma` `MongoDB (NoSQL)` `MySQL (SQL)` `Postgres (SQL)` `Firebase`
 #### Libraries
-`Stripe`
+`Redux Toolkit/Query/Saga` `React Query` `Stripe` 
 
 ### What I'm doing
-💻 Currently making a social media and an e-commerce website on my free time 
-[Social Hub Live](https://social-hub-seven.vercel.app/home) - [Code](https://github.com/yowger/social-hub)
+Advancing my skills to next level...
 
 ### Contact me
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/roger.pantil.1/)
