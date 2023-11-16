@@ -6,9 +6,9 @@
 #### Styling
 `Material UI` `Tailwind CSS` `radix-ui` `Shadcn/ui`
 #### Backend
-`Node.js` `Prisma` `MongoDB (NoSQL)` `MySQL (SQL)` `Postgres (SQL)` `Firebase`
+`Node.js` `Firebase` `MongoDB (NoSQL)` `MySQL/Postgres (SQL)` 
 #### Libraries
-`Redux Toolkit/Query/Saga` `React Query` `Stripe` 
+`Redux Toolkit/Query/Saga` `React Query` `Prisma` `Stripe` 
 
 ## What I'm doing
 Advancing my skills to next level...
