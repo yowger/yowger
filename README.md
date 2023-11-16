@@ -1,4 +1,4 @@
-```bash
+```http
   sleep eat code, sleep eat code, repeat...
 ```
 
