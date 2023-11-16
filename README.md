@@ -7,7 +7,7 @@
 `Material UI` `Tailwind CSS` `radix-ui` `Shadcn/ui`
 #### Backend
 `Node.js` `Prisma` `MongoDB (NoSQL)` `MySQL (SQL)` `Postgres (SQL)` `Firebase`
-### Libraries
+#### Libraries
 `Stripe`
 
 ### What I'm doing
