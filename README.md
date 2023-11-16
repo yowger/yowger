@@ -1,4 +1,6 @@
-## sleep - code - eat... sleep - code - eat, repeat. 
+```bash
+  sleep eat code, sleep eat code, repeat...
+```
 
 ### My Tech stack
 #### Frontend
