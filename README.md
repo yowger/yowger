@@ -1,6 +1,4 @@
-```http
-  sleep eat code, sleep eat code, repeat...
-```
+`sleep eat code, sleep eat code, repeat...`
 
 ### My Tech stack
 #### Frontend
