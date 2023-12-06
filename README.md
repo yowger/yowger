@@ -6,12 +6,12 @@
 #### Styling
 `Material UI` `Tailwind CSS` `radix-ui` `Shadcn/ui`
 #### Backend
-`Node.js` `Firebase` `MongoDB (NoSQL)` `MySQL/Postgres (SQL)` 
+`Node.js` `Firebase` `MongoDB (NoSQL)` `MySQL/Postgres (SQL)` `Firebase`
 #### Libraries
 `Redux Toolkit/Query/Saga` `React Query` `Prisma` `Stripe` 
 
 ## What I'm doing
-Advancing my skills to next level...
+Advancing...
 
 ## Contact me
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/roger.pantil.1/)
