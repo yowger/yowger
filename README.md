@@ -10,7 +10,7 @@
 #### Libraries
 `Redux Toolkit/Query/Saga` `React Query` `Prisma` `Stripe` 
 
-## My youtube
+## My youtube [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCkW8whdLgn8PIOPze2KQusA)
 https://www.youtube.com/channel/UCkW8whdLgn8PIOPze2KQusA
 
 ## What I'm doing
