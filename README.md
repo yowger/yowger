@@ -6,7 +6,7 @@
 #### Styling
 `Material UI` `Tailwind CSS` `radix-ui` `Shadcn/ui`
 #### Backend
-`Node.js` `Firebase` `MongoDB (NoSQL)` `MySQL/Postgres (SQL)` `Firebase`
+`Node.js` `Firebase` `MongoDB (NoSQL)` `MySQL/Postgres (SQL)`
 #### Libraries
 `Redux Toolkit/Query/Saga` `React Query` `Prisma` `Stripe` 
 
