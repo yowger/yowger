@@ -1,4 +1,4 @@
-`sleep eat code, sleep eat code, repeat...`
+`continues learning...`
 
 ## My Tech stack
 #### Frontend
