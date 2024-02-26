@@ -1,5 +1,3 @@
-`continues learning...`
-
 ## My Tech stack
 #### Frontend
 `JavaScript` `TypeScript` `React` `Next.js`
