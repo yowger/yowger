@@ -6,7 +6,7 @@
 #### Backend
 `Node.js` `Firebase` `MongoDB (NoSQL)` `MySQL/Postgres (SQL)` `Redis`
 #### Libraries
-`Redux Toolkit/Query/Saga` `React Query` `Prisma` `Stripe` `Socket.io`
+`Redux Toolkit/Query/Saga` `React Query` `Zustand` `Prisma` `Stripe` `Socket.io`
 
 ## My youtube
 https://www.youtube.com/channel/UCkW8whdLgn8PIOPze2KQusA
