@@ -1,8 +1,6 @@
 <h1 align="center">Hello there!</h1>
 <h3 align="center">Hi, I'm Roger Pantil. A passionate Fullstack developer from the Philippines, mainly focused on JS/TS specializing in Js libraries/frameworks such as React/Node/Next. </h3>
 
-- 📫 How to reach me **rogerpantilyowger@gmail.com**
-
 ## Tech Stack
 
 <div align="center">
@@ -49,6 +47,8 @@
     />
   </a>
 
-## 🔗 Connect with me
+## 🔗 How to reach me
 [![skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/xTRyQtrZHA2P)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/639482806578)
+
+- or send me an email at **rogerpantilyowger@gmail.com**
