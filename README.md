@@ -1,5 +1,5 @@
 <h1 align="center">Hello there!</h1>
-<h3 align="center">Hi, I'm Roger Pantil. A passionate Fullstack developer from the Philippines, mainly focused on JS/TS specializing in Js libraries/frameworks such as React/Node/Next. </h3>
+<h3 align="center">I'm Roger Pantil from the Philippines. A passionate full-stack developer mainly focused on JS/TS specializing in libraries/frameworks such as React/Node/Next.</h3>
 
 ## Tech Stack
 
