@@ -47,7 +47,14 @@
     />
   </a>
 
-## 🔗 How to reach me
+## Github Stats
+<img
+   align="center"
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yowger&theme=default&hide=css,html,vim%20script&langs_count=7"
+   alt="Rem's Most Used Languages"
+/>
+
+## How to reach me
 [![skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/xTRyQtrZHA2P)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/639482806578)
 
