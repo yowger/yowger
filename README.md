@@ -56,6 +56,20 @@
   <a href="#" target="_blank">
     <img
          align="center"
+         src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"
+         alt="Firebase"
+    />
+  </a>
+  <a href="#" target="_blank">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"
+         alt="Socket.io"
+    />
+  </a>
+  <a href="#" target="_blank">
+    <img
+         align="center"
          src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"
          alt="Jest"
     />
