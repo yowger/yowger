@@ -46,6 +46,20 @@
          alt="NodeJS"
     />
   </a>
+  <a href="#" target="_blank">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"
+         alt="Redist"
+    />
+  </a>
+  <a href="#" target="_blank">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"
+         alt="Jest"
+    />
+  </a>
 </div>
 
 ## Github Stats
