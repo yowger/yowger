@@ -89,8 +89,8 @@
   <a href="#" target="_blank">
     <img
          align="center"
-         src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
-         alt="AWS EC2"
+         src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"
+         alt="Nginx"
     />
   </a>
 </div>
