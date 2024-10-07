@@ -83,6 +83,7 @@
 - **Web Performance Optimization** (Code Splitting/Lazy Loading)
 - **Responsive Web Design**
 - **Form/Data Validation** (Zod, React Hook Form)
+- **Build Tools** (Vite)
   
 ### Backend
 - **API Development** (RESTful APIs)
