@@ -1,11 +1,13 @@
-<h1 align="center">Hello there!</h1>
-<h3 align="center">I'm Roger Pantil from the Philippines. A passionate full-stack developer mainly focused on JS/TS specializing in libraries/frameworks such as React/Node/Next.</h3>
+<h1 align="center">Hi Roger here.</h1>
+<h3 align="center">I like coding, main language JS. I like making real-time applications like chat/game apps and learning something new every now and then.</h3>
 
 ## Tech Stack
+  <a href="#" target="_blank">
     <img
          src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
          alt="React"
     />
+  </a>
     <img
          src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
          alt="ExpressJS"
