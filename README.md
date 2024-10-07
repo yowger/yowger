@@ -86,14 +86,35 @@
          alt="Docker"
     />
   </a>
-  <a href="#" target="_blank">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"
-         alt="Nginx"
-    />
-  </a>
 </div>
+
+## Skills
+
+### Frontend
+- **Folder/component Architecture**
+- **State management** (Zustand, Context, Redux Toolkit)
+- **UI Libraries** (Shadcn-UI, Material-UI, Tailwind CSS, Headless UI) 
+- **Web Performance Optimization** (Code Splitting/Lazy Loading)
+- **Responsive Web Design**
+- **Form/Data Validation** (Zod, React Hook Form)
+  
+### Backend
+- **API Development** (RESTful APIs)
+- **Database Manage** (MongoDB, PostgreSQL, Drizzle, Prisma)
+- **Authentication/Authorization** (JWT,Passport, Clerk, NextAuth)
+- **Real-time features** (Sockets/Pusher)
+- **Webhooks** (clerk, stripe)
+- **Caching** (Redis)
+- **File Uploads** (AWS S3, Uploadthing, Cloudinary)
+- **Version Control** (Git)
+- **Rate Limiting** (express-rate-limit)
+- **Email Services** (Nodemailer, Resend)
+
+### Tools/Others
+- **Logging** (Pino, Winston)
+- **API Clients** (Axios, React Query, Redux Toolkit query)
+- **Testing** (Jest)
+- **Docker** basic (Containerization, Docker Compose)
 
 ## Github Stats
 
