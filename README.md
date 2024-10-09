@@ -1,6 +1,8 @@
 <h1 align="center">Hi Roger here.</h1>
 <h3 align="center">I like coding, main language JS. I like making real-time applications like chat/game apps and learning something new every now and then.</h3>
+<div align="center">
 `I like clean codes` `exercise, eat and code` `progressive` `Refactoring`
+</div>
 
 ## Tech Stack
 <div class="flex" style="display: flex; flex-wrap: wrap; gap: 10px;">
