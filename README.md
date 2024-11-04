@@ -69,13 +69,7 @@
 </div>
 
 ## Currently learning
-  <a href="https://jestjs.io/" target="_blank">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
-         alt="Docker"
-    />
-  </a>
+  PYTHON
 
 ## Skills
 
