@@ -69,7 +69,7 @@
 </div>
 
 ## Currently learning
-  PYTHON
+  PYTHON/DJANGO
 
 ## Skills
 
