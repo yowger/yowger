@@ -66,6 +66,18 @@
          alt="Jest"
     />
   </a>
+  <a href="https://jestjs.io/" target="_blank">
+    <img
+         src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+         alt="Python"
+    />
+  </a>
+  <a href="https://jestjs.io/" target="_blank">
+    <img
+         src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
+         alt="Django"
+    />
+  </a>
 </div>
 
 ## Currently learning
