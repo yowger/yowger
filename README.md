@@ -81,7 +81,7 @@
 </div>
 
 ## Currently learning
-  PYTHON/DJANGO
+  GOLANG/ANGULAR
 
 ## Skills
 
