@@ -115,7 +115,7 @@
 ## Github Stats
   <img
      align="center"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yowger&theme=default&hide=css,html,vim%20script&langs_count=7"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yowger&theme=default&hide=css,html,vim%20script&langs_count=20"
      alt="Most Used Languages"
   />
 
