@@ -82,6 +82,7 @@
 
 ## Currently learning
   GOLANG/ANGULAR
+  architectures -> CA -> DDD
 
 ## Skills
 
