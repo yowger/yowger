@@ -81,8 +81,8 @@
 </div>
 
 ## Currently learning
-  GOLANG/ANGULAR
-  architectures -> CA -> DDD
+  - GOLANG/ANGULAR
+  - architectures -> CA -> DDD
 
 ## Skills
 
