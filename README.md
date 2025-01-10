@@ -81,7 +81,8 @@
 </div>
 
 ## Currently learning
-  - GOLANG/ANGULAR
+  - GOLANG [DONE]
+  - ANGULAR & C# -> .NET
   - architectures -> CA -> DDD
 
 ## Skills
