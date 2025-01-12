@@ -79,6 +79,8 @@
   - ANGULAR & C# -> .NET
   - architectures -> CA -> DDD
 
+  - event driven -> kafka
+
 ## Skills
 
 ### Frontend
