@@ -1,4 +1,4 @@
-<h3 align="center">Beep beep beep beeep....</h3>
+<h3 align="center">Snake game or space invaders with api</h3>
 
 ## Tech Stack
 <div class="flex" style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -91,12 +91,11 @@
   - event driven -> kafka
 
 ## Skills
-
-### OOP
-### Design structure (CA)
-### REST
-### Auth (Jwt, OAuth, etc)
-### DB (SQL, PosgreSQL, MongoDB)
+  - OOP
+  - Design structure (CA)
+  - REST
+  - Auth (Jwt, OAuth, etc)
+  - DB (SQL, PosgreSQL, MongoDB)
 
 ## Github Stats
   <img
