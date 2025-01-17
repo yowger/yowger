@@ -1,8 +1,4 @@
-<h1 align="center">Hi Roger here.</h1>
-<h3 align="center">I like coding, main language JS. I like making real-time applications like chat/game apps and learning something new every now and then.</h3>
-<div align="center">
-<code>I like clean codes</code> <code>exercise, eat and code</code> <code>progressive</code> <code>Refactoring</code>
-</div>
+<h3 align="center">Beep beep beep beeep....</h3>
 
 ## Tech Stack
 <div class="flex" style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -66,12 +62,25 @@
          alt="Jest"
     />
   </a>
-  <a href="https://jestjs.io/" target="_blank">
+  <a href="#" target="_blank">
     <img
          src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"
          alt="Go"
     />
   </a>
+  <a href="#" target="_blank">
+    <img
+         src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"
+         alt="csharp"
+    />
+  </a>
+  <a href="#" target="_blank">
+    <img
+         src="https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B"
+         alt="vite"
+    />
+  </a>
+  
 </div>
 
 ## Currently learning
@@ -83,32 +92,11 @@
 
 ## Skills
 
-### Frontend
-- **Folder/component Architecture**
-- **State management** (Zustand, Context, Redux Toolkit)
-- **UI Libraries** (Shadcn-UI, Material-UI, Tailwind CSS, Headless UI) 
-- **Web Performance Optimization** (Code Splitting/Lazy Loading)
-- **Responsive Web Design**
-- **Form/Data Validation** (Zod, React Hook Form)
-- **Build Tools** (Vite)
-  
-### Backend
-- **API Development** (RESTful APIs)
-- **Database Manage** (MongoDB, PostgreSQL, Drizzle, Prisma, Firebase)
-- **Authentication/Authorization** (JWT, Passport, Clerk, NextAuth)
-- **Real-time features** (Sockets/Pusher)
-- **Webhooks** (clerk, stripe)
-- **Caching** (Redis)
-- **File Uploads** (AWS S3, Uploadthing, Cloudinary)
-- **Version Control** (Git)
-- **Rate Limiting** (express-rate-limit)
-- **Email Services** (Nodemailer, Resend)
-
-### Tools/Others
-- **Logging** (Pino, Winston)
-- **API Clients** (Axios, React Query, Redux Toolkit query)
-- **Testing** (Jest)
-- **Docker** basic (Containerization, Docker Compose)
+### OOP
+### Design structure (CA)
+### REST
+### Auth (Jwt, OAuth, etc)
+### DB (SQL, PosgreSQL, MongoDB)
 
 ## Github Stats
   <img
