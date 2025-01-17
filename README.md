@@ -1,4 +1,4 @@
-<h3 align="center">Snake game or space invaders with api</h3>
+<h3 align="center">Snake game or space invader</h3>
 
 ## Tech Stack
 <div class="flex" style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -8,22 +8,10 @@
          alt="React"
     />
   </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img
-         src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
-         alt="Express.js"
-    />
-  </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img
          src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
          alt="TypeScript"
-    />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img
-         src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-         alt="JavaScript"
     />
   </a>
   <a href="https://nextjs.org/" target="_blank">
@@ -56,12 +44,6 @@
          alt="Socket.io"
     />
   </a>
-  <a href="https://jestjs.io/" target="_blank">
-    <img
-         src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=jest&logoColor=white"
-         alt="Jest"
-    />
-  </a>
   <a href="#" target="_blank">
     <img
          src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"
@@ -72,12 +54,6 @@
     <img
          src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"
          alt="csharp"
-    />
-  </a>
-  <a href="#" target="_blank">
-    <img
-         src="https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B"
-         alt="vite"
     />
   </a>
   
