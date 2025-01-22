@@ -71,7 +71,7 @@
   - Design structure (CA)
   - REST
   - Auth (Jwt, OAuth, etc)
-  - DB (SQL, PosgreSQL, MongoDB)
+  - DB (SQL/NO-SQL)
 
 ## Github Stats
   <img
