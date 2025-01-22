@@ -62,9 +62,9 @@
 ## Currently learning
   - GOLANG [DONE]
   - ANGULAR & C# -> .NET
-  - architectures -> CA -> DDD
-
-  - event driven -> kafka
+  - Architectures -> CA -> DDD
+  - Event driven -> kafka
+  - Design patterns
 
 ## Skills
   - OOP
