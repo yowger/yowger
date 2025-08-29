@@ -1,6 +1,6 @@
-A bit bout me.
-I like coding, i like my codes maintainable, clean and reusable or DRY.
-Main stack -> Typescript masterrace.
+A bit bout me.  
+I like coding, i like my codes maintainable, clean and reusable or DRY.  
+Main stack -> **TypeScript masterrace**
 
 ## **Stack**  
 
