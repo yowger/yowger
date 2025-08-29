@@ -2,8 +2,6 @@ A bit bout me.
 I like coding, i like my codes maintainable, clean and reusable.
 Main stack -> Typescript masterrace.
 
----
-
 ## **Stack**  
 
 ### **Frontend**  
@@ -30,8 +28,6 @@ Main stack -> Typescript masterrace.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white) 
 ![GithubActions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe) 
-
----
 
 ## **GitHub Stats**  
 <div align="center">
