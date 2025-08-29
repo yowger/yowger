@@ -4,7 +4,7 @@ Main stack -> Typescript masterrace.
 
 ---
 
-## 🚀 **Tech Stack**  
+## **Stack**  
 
 ### **Frontend**  
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -33,12 +33,12 @@ Main stack -> Typescript masterrace.
 
 ---
 
-## 📊 **GitHub Stats**  
+## **GitHub Stats**  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yowger&theme=default&hide=css,html,vim%20script&langs_count=20" alt="Most Used Languages" />
 </div>  
 
 ---
 
-## 📫 **How to Reach Me**  
+## **How to Reach Me**  
 ✉️ **Email:** [rogerpantilyowger@gmail.com](mailto:rogerpantilyowger@gmail.com)  
